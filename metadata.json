@@ -1,0 +1,7 @@
+{
+  "name": "EchoAid: AI Disaster Response",
+  "description": "An AI-powered decentralized disaster response platform that helps people during crises by allowing users to submit SOS requests that are analyzed and prioritized by AI, then shown on a dynamic crisis map in real time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
